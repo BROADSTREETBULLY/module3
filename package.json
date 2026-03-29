@@ -1,0 +1,23 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/BROADSTREETBULLY/module3#readme",
+  "bugs": {
+    "url": "https://github.com/BROADSTREETBULLY/module3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BROADSTREETBULLY/module3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "CountFruit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
